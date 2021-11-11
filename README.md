@@ -1,2 +1,2 @@
-# surfs_up
+# Surfs Up Analysis
 Software: Jupyter Notebook, VS Code
