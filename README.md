@@ -3,7 +3,7 @@
 
 ## Overview of Analysis
 
-Mr. Avy, an entrepreneur, is seeking information about temperature trends before opening a surf shop In Hawaii. He is seeking greater insights into the temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+Mr. Avy, an entrepreneur, is seeking information about temperature trends before opening a surf shop in Hawaii. He is seeking greater insights into the temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results
 ### June Temperature Queries
@@ -24,3 +24,4 @@ Mr. Avy, an entrepreneur, is seeking information about temperature trends before
 
 ## Summary
 
+There is a difference in temperatures between June and December in Oahu, with the most drastic difference being the coldest temperature (56 degrees in December) vs the warmest temperature (85 in June). However, on average, there is not a significant difference in average temperature between the two months. Oahu stays relatively warm, between 71 and 75 degrees. Because the temperature typically stays in the low to mid 70s, a surf and ice cream shop would most likely be sustainable all year-round. Two more queries that could provide further insight would be a query on temperatures from January to July (to determine average temperatures for the entire year) as well as a query on precipitation as rain would affect the success of a surf and ice cream shop in Hawaii. While it might still be a good idea to move forward with this business plan, knowing if or when he should brace for an "off season" would help Mr. Avy make better business decisions.
